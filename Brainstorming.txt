@@ -8,6 +8,8 @@ Semi-Defensible
 Very Defensible
 Hazardous Terrain
 
+One side has 1x terrain, other side has 3x? For a simpler/faster/lower player count game
+
 4x
 Explore - ?
 Expand - Build Cities
@@ -22,3 +24,7 @@ Expand
 
 Exploit:
 -Only one resource for simplicity? Maybe multiuse resources of some sort. Cities are soldiers are resources, depending on where they are in the game. Provides an elegant conversion, too - 1 resouce becomes 1 troop (move from supply to board), 1 troop becomes 1 city (moves from region to space between regions)
+
+Exterminate:
+-Combat resolution like Imperial: units trade 1:1
+-Combat resolution like Kemet: strength=number of units, plus modifiers from hand of cards (ties in to exploration sort of if the cards come from that)
