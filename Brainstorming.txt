@@ -1,0 +1,24 @@
+Micro4x
+
+3 terrain types per hex:
+Impassible Terrain
+Resource Rich
+Not Defensible
+Semi-Defensible
+Very Defensible
+Hazardous Terrain
+
+4x
+Explore - ?
+Expand - Build Cities
+Exploit - Gain Resources
+Exterminate - Combat
+
+Explore is the difficult one to define in a microgame.
+-Instead of exploring the hexes, each region has a special exploration card associated with it (adds new components, but a deck of ~20 cards shouldn't be a huge ask)
+
+Expand
+-Cities built on the spaces between regions like catan?
+
+Exploit:
+-Only one resource for simplicity? Maybe multiuse resources of some sort. Cities are soldiers are resources, depending on where they are in the game. Provides an elegant conversion, too - 1 resouce becomes 1 troop (move from supply to board), 1 troop becomes 1 city (moves from region to space between regions)
